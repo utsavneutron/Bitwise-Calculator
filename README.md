@@ -9,5 +9,5 @@ It takes in inputs in decimal base.
 
 Compilation instructions:
 ->This is built in a Lubuntu virtual machine
-->In terminal:gcc -o shapes shapes.c
-./shapes
+->In terminal:gcc -o bitwise bitwise.c
+./bitwise
